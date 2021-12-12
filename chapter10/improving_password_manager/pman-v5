@@ -1,0 +1,62 @@
+#!/bin/bash
+PROGRAM=$(basename $0)
+# Use the encrypted file
+DATABASE=$HOME/etc/vault.gpg
+
+load_password () {
+    # Place username (field 1) into clipboard
+    echo "$1" | cut -f1 | tr -d '\n' | xclip -selection clipboard
+    # Place password (field 2) into X primary selection
+    echo "$1" | cut -f2 | tr -d '\n' | xclip -selection primary
+    # Give feedback to the user
+    echo "Found" $(echo "$1" | cut -f3- --output-delimiter ': ')
+    echo "$PROGRAM: username and password loaded into X selections"
+}
+
+if [ $# -ne 1 ]; then
+    >&2 echo "$PROGRAM: look up passwords"
+    >&2 echo "Usage: $PROGRAM string"
+    exit 1
+fi
+searchstring="$1"
+
+# Store the decrypted text in a variable
+decrypted=$(gpg -d -q "$DATABASE")
+if [ $? -ne 0 ]; then
+    >&2 echo "$PROGRAM: could not decrypt $DATABASE"
+    exit 1
+fi
+
+# Look for exact matches in the third column
+match=$(echo "$decrypted" | awk '$3~/^'$searchstring'$/')
+if [ -n "$match" ]; then
+    load_password "$match"
+    exit $?
+fi
+
+# Look for any match
+match=$(echo "$decrypted" | awk "/$searchstring/")
+if [ -z "$match" ]; then
+    >&2 echo "$PROGRAM: no matches"
+    exit 1
+fi
+
+# Count the matches
+count=$(echo "$match" | wc -l)
+
+case "$count" in
+    0)
+	>&2 echo "$PROGRAM: no matches"
+	exit 1
+	;;
+    1)
+	load_password "$match"
+	exit $?
+	;;
+    *)
+	>&2 echo "$PROGRAM: multiple matches for the following keys:"
+	echo "$match" | cut -f3
+	>&2 echo "$PROGRAM: rerun this script with one of the keys"
+	exit
+	;;
+esac

@@ -1,0 +1,4 @@
+#!/bin/bash
+# Just print matching lines
+grep "$1" $HOME/etc/vault
+

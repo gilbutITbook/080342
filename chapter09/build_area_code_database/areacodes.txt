@@ -1,0 +1,375 @@
+201	NJ	Hackensack, Jersey City (201/551 overlay)
+202	DC	Washington
+203	CT	New Haven, Stamford, southwestern (475 will overlay 203)
+204	MB	entire province
+205	AL	Birmingham, Tuscaloosa (659 will overlay 205)
+206	WA	Seattle (564 will overlay 206/253/425/360)
+207	ME	entire state
+208	ID	entire state
+209	CA	Modesto, Stockton
+210	TX	San Antonio
+212	NY	New York City/Manhattan (212/646 overlay; see also 917)
+213	CA	Los Angeles/inner downtown
+214	TX	Dallas and suburbs (214/972/469 overlay)
+215	PA	Philadelphia (215/267 overlay) (445 will overlay 215/267)
+216	OH	Cleveland
+217	IL	Champaign, Springfield
+218	MN	Duluth, northern
+219	IN	Gary, northwestern (see also 260, 574)
+224	IL	north suburbs of Chicago (847/224 overlay)
+225	LA	Baton Rouge
+227	MD	Silver Spring, Washington D.C. suburbs, Frederick (227 will overlay 301/240)
+228	MS	Biloxi, Gulfport, extreme southern tip; (see also 601, 662)
+229	GA	Albany, Valdosta, southwestern
+231	MI	northwest lower peninsula, Muskegon, Traverse City
+234	OH	Akron, Canton, Youngstown; (330/234 overlay)
+239	FL	Ft, Myers, Naples
+240	MD	Silver Spring, Washington D.C. suburbs, Frederick (301/240 overlay; 227 will overlay 301/240)
+242	--	BAHAMAS (Atlantic Ocean)
+246	--	BARBADOS (Caribbean)
+248	MI	Pontiac, Troy, northwestern Detroit suburbs (947 will overlay 248) (overlay reinstated)
+250	BC	Victoria, Kamloops
+251	AL	Mobile, southwestern
+252	NC	Greenville, Rocky Mount, Cape Hatteras
+253	WA	Tacoma, southern Seattle area (564 will overlay 206/253/425/360)
+254	TX	Waco
+256	AL	Huntsville, northern and east central
+260	IN	Ft. Wayne, northeastern; (see also 219, 574)
+262	WI	Kenosha, Racine, Waukesha, West Bend, but not Milwaukee
+264	--	ANGUILLA (Caribbean)
+267	PA	Philadelphia (215/267 overlay) (445 will overlay 215/267)
+268	--	ANTIGUA & BARBUDA (Caribbean)
+269	MI	Kalamazoo, southwestern (use 616)
+270	KY	Bowling Green, western
+276	VA	Bristol, southwestern
+278	MI	Ann Arbor, Monroe, Detroit/Wayne Airport [DTW] (278 will overlay 734) (status of overlay in limbo)
+281	TX	Houston (713/281/832 overlay)
+283	OH	Cincinnati (283 will overlay 513)
+284	--	BRITISH VIRGIN ISLANDS (Caribbean)
+289	ON	Hamilton, Mississauga, Toronto suburbs (905/289 overlay)
+Jump	to	top - 200's - 300's - 400's - 500's - 600's - 700's - 800's - 900's
+301	MD	Silver Spring, Washington D.C. suburbs, Frederick (301/240 overlay; 227 will overlay 301/240)
+302	DE	entire state
+303	CO	Denver (303/720 overlay)
+304	WV	entire state
+305	FL	Miami, Key West; (305/786 overlay on Miami/Dade County and the Keys)
+306	SK	entire province
+307	WY	entire state
+308	NE	North Platte, Grand Island, western
+309	IL	Bloomington, Peoria, Moline/Quad Cities
+310	CA	Santa Monica, LAX Airport, (part of Los Angeles County); (San Pedro, Torrance will be 424) (424 overlay was cancelled, but came back as an emergency split, effective in 2002?)
+312	IL	Chicago/downtown only (872 will overlay 312 and 773; date t.b.a.)
+313	MI	Detroit (see also 248, 734, 810); (679 will overlay 313) (status of overlay in limbo)
+314	MO	St. Louis (see also 573, 636) (557 will overlay 314) (status of overlay in limbo)
+315	NY	Syracuse, Utica, north central
+316	KS	Wichita; (see also 620)
+317	IN	Indianapolis
+318	LA	Shreveport, Alexandria, northern
+319	IA	Cedar Rapids, Waterloo, Burlington
+320	MN	St. Cloud, central and west central
+321	FL	Orlando (overlay with 407, 12/99); Melbourne (split from 407, 11/99)
+323	CA	Los Angeles/outer downtown
+330	OH	Akron, Canton, Youngstown; (330/234 overlay)
+331	IL	Hinsdale, some western suburbs of Chicago (331 will overlay 630)
+334	AL	Montgomery, southeastern; (see also 251)
+336	NC	Greensboro, High Point, Winston-Salem
+337	LA	Lafayette, Lake Charles, southwestern
+339	MA	Lexington, Boston suburbs (339 overlays 781)
+340	VI	U.S. VIRGIN ISLANDS (entire territory)
+341	CA	Oakland (510/341 overlay cancelled by CPUC)
+345	--	CAYMAN ISLANDS (Caribbean)
+347	NY	Bronx, Brooklyn, Queens, Staten Island (718/347 overlay; see also 917)
+351	MA	Lowell, Leominster, northeastern (978/351 overlay)
+352	FL	Gainesville, Ocala
+356	--	(356 was assigned to overlay 973 in New Jersey, but the code was changed to 862. 356 is now available for assignment elsewhere.)
+360	WA	Bellingham, Olympia, Vancouver (564 will overlay 206/253/425/360)
+361	TX	Corpus Christi
+369	CA	Solano County, Vallejo (use 707; see also 627) (707/369/627 split suspended by CPUC)
+(380)	OH	Columbus (380 will overlay 614)
+385	UT	Ogden, Provo, urban areas both north and south of Salt Lake City (use 801) (split postponed until after 2002 Olympics)
+386	FL	Daytona Beach, rural area west of Jacksonville (two separate areas)
+Jump	to	top - 200's - 300's - 400's - 500's - 600's - 700's - 800's - 900's
+401	RI	entire state
+402	NE	Omaha, eastern
+403	AB	Calgary, southern third of province
+404	GA	Atlanta (404/770/678/470 overlay)
+405	OK	Oklahoma City, central
+406	MT	entire state
+407	FL	Orlando (321 overlays most of the remaining 407, but 321 is also a geographic split of the coastal area formerly in 407)
+408	CA	San José
+409	TX	Galveston, Beaumont; (see also 936, 979)
+410	MD	Baltimore, northern and eastern (410/443 overlay; 667 will overlay 410/443)
+412	PA	Pittsburgh; (878 overlays 412 and 724)
+413	MA	Springfield, western
+414	WI	Milwaukee
+415	CA	San Francisco, Marin County
+416	ON	Toronto (647 overlays 416)
+417	MO	Springfield, Joplin, southwestern
+418	QC	Québec, Gaspé, southeastern
+419	OH	Toledo, northwestern (419/567 overlay)
+423	TN	Chattanooga, Johnson City, southeastern, northeastern; (Knoxville is now 865)
+424	CA	San Pedro, Torrance, Avalon (use 310) (was to be overlay of all of 310, but changed to emergency split, effective in 2002?)
+425	WA	Everett, Redmond, northern/eastern Seattle area (564 will overlay 206/253/425/360)
+430	TX	Tyler, Texarkana, northeastern; (430 will overlay 903)
+434	VA	Charlottesville, Lynchburg, Emporia
+435	UT	Logan, entire state except urban core (see 801, 385)
+438	QC	Montréal (438 will overlay 514, probably in 2003)
+440	OH	Lorain, Ashtabula, surrounds Cleveland on three sides
+441	--	BERMUDA (Atlantic Ocean)
+442	CA	Oceanside, Escondido; (use 760) (760/442 split suspended by CPUC)
+443	MD	Baltimore, northern and eastern (410/443 overlay; 667 will overlay 410/443)
+445	PA	Philadelphia (445 will overlay 215/267)
+450	QC	Laval, Longueuil, suburbs of Montréal
+456	--	International inbound switched-56K services
+464	IL	La Grange, some southern/western suburbs of Chicago (464 will overlay 708)
+469	TX	Dallas and suburbs (214/972/469 overlay)
+470	GA	Atlanta (404/770/678/470 overlay)
+473	--	GRENADA (Caribbean)
+475	CT	New Haven, Stamford, southwestern (475 will overlay 203)
+478	GA	Macon, central
+479	AR	Ft. Smith, Fayetteville, northwestern
+480	AZ	Scottsdale, Mesa, Tempe, east Phoenix area (see also 602, 623)
+484	PA	Allentown, King of Prussia, outer Philadelphia suburbs (610/484 overlay; 835 will overlay 610/484)
+Jump	to	top - 200's - 300's - 400's - 500's - 600's - 700's - 800's - 900's
+500	--	Personal Communications Services (premium charges may apply)
+501	AR	Little Rock, central; (see also 479)
+502	KY	Louisville, Frankfort (see also 270)
+503	OR	Portland, Salem, Astoria, northwestern (971 is a concentrated overlay on most of 503, but not Tillamook and Astoria (coastal area))
+504	LA	New Orleans; (see also 985)
+505	NM	entire state outside Albuquerque/Santa Fe area; (Albuquerque and Santa Fe will be 575)
+506	NB	entire province
+507	MN	Rochester, southern
+508	MA	Worcester, Cape Cod, southeastern; (774 overlays 508)
+509	WA	Spokane, eastern
+510	CA	Oakland (510/341 overlay suspended by CPUC)
+512	TX	Austin (see also 361) (737 will be a concentrated overlay on most of 512)
+513	OH	Cincinnati
+514	QC	Montréal, Île-Perrot (438 will overlay 514, probably in 2002 or 2003)
+515	IA	Des Moines, Ames, Ft. Dodge; (see also 641)
+516	NY	Nassau County (western Long Island); (see also 631)
+517	MI	Lansing; (see also 989)
+518	NY	Albany, northeastern
+519	ON	London, Windsor
+520	AZ	Tucson, Nogales, southeastern; (see also 928 and 480/602/623)
+530	CA	Redding, Lake Tahoe, northeastern
+533	--	Personal Communications Services (expansion of 500)
+540	VA	Harrisonburg, northwestern; (Roanoke, central western will be [code t.b.a.]) (see also 276)
+541	OR	Eugene, all but northwestern corner (Portland, Salem; see 503, 971)
+551	NJ	Hackensack, Jersey City (201/551 overlay)
+557	MO	St. Louis (557 will overlay 314)
+559	CA	Fresno
+561	FL	Palm Beach County; (see also 772)
+562	CA	Long Beach, (part of Los Angeles County)
+563	IA	Davenport/Quad Cities, Dubuque, Decorah
+564	WA	Seattle, all of western WA (564 will overlay 206/253/425/360 -- originally announced only for 360, then expanded, then suspended)
+567	OH	Toledo, northwest (419/567 overlay)
+570	PA	Scranton, Wilkes-Barre
+571	VA	Arlington, suburbs of Washington D.C.; (703/571 overlay)
+573	MO	Columbia, Jefferson City, central and western except St. Louis/St. Charles area (see 314, 636)
+574	IN	South Bend, north central; (see also 219, 260)
+575	NM	Albuquerque, Santa Fe (use 505)
+580	OK	Lawton, panhandle, southern, western, north central (see 405, 918)
+585	NY	Rochester
+586	MI	Warren, Macomb County; (810/586 planned overlay converted to geographic split)
+Jump	to	top - 200's - 300's - 400's - 500's - 600's - 700's - 800's - 900's
+600	--	CANADA: special purposes (e.g., caller-pays cellular)
+601	MS	Jackson, Hattiesburg; (northern MS is 662; southern tip is 228)
+602	AZ	Phoenix (see also 480, 623)
+603	NH	entire state
+604	BC	Vancouver; (604/778 concentrated overlay on the more urban portion of 604)
+605	SD	entire state
+606	KY	Ashland, Pikeville, Somerset, eastern; (Lexington, Covington are now 859)
+607	NY	Binghamton, south central
+608	WI	Madison, southwestern
+609	NJ	Atlantic City, Trenton, southeast and central west; (see also 856)
+610	PA	Allentown, King of Prussia, outer Philadelphia suburbs (610/484 overlay; 835 will overlay 610/484)
+612	MN	Minneapolis (see also 651, 763, 952)
+613	ON	Ottawa
+614	OH	Columbus (380 will overlay 614)
+615	TN	Nashville
+616	MI	Grand Rapids; (Kalamazoo will be 269) (see also 231)
+617	MA	Boston (617/857 overlay)
+618	IL	East St. Louis, southern
+619	CA	San Diego, Coronado; (see also 760, 858)
+620	KS	southern Kansas except metro Wichita
+623	AZ	Glendale, Sun City, west Phoenix area; (see also 480, 602)
+626	CA	Pasadena, San Gabriel Valley, (part of Los Angeles County)
+627	CA	Napa and Sonoma Counties, Santa Rosa (use 707; see also 369) (707/369/627 split suspended by CPUC)
+(628)	CA	San Francisco, Marin County; (415/628 overlay suspended by CPUC)
+630	IL	Hinsdale, some western suburbs of Chicago (331 will overlay 630; date t.b.a.)
+631	NY	Suffolk County (eastern Long Island); (see also 516)
+636	MO	St. Charles (see also 314 and 573)
+641	IA	Mason City, Marshalltown, J-shaped portion of central Iowa
+646	NY	New York City/Manhattan (212/646 overlay; see also 917)
+647	ON	Toronto (416/647 overlay)
+649	--	TURKS & CAICOS ISLANDS (Caribbean)
+650	CA	San Mateo, peninsula, San Francisco Airport [SFO]
+651	MN	St. Paul, eastern Twin Cities area
+657	CA	Anaheim, northern Orange County (714/657 overlay suspended by CPUC)
+(659)	AL	Birmingham, Tuscaloosa (659 will overlay 205)
+660	MO	Sedalia, north central
+661	CA	Bakersfield, northern Los Angeles County
+662	MS	northern half, Greenville, Tupelo; (see also 601, 228)
+664	--	MONTSERRAT (Caribbean)
+667	MD	Baltimore, northern and eastern (667 will overlay 410/443)
+(669)	CA	San José (408/669 overlay suspended by CPUC)
+670	MP	Commonwealth of the Northern MARIANA ISLANDS/U.S. Pacific (NOTE: int'l country code 670 is now assigned to East Timor. CNMI is now only reachable as +1 670.)
+671	GU	GUAM/U.S. Pacific
+678	GA	Atlanta area (404/770/678/470 overlay)
+679	MI	Detroit (679 will overlay 313) (status of overlay in limbo)
+682	TX	Fort Worth (817/682 overlay)
+Jump	to	top - 200's - 300's - 400's - 500's - 600's - 700's - 800's - 900's
+700	--	Special purposes: dependent on long-distance carrier used (premium charges may apply)
+701	ND	entire state
+702	NV	Las Vegas, almost all of Clark County, (rest of state is 775)
+703	VA	Arlington, suburbs of Washington D.C.; (703/571 overlay)
+704	NC	Charlotte (704/980 overlay)
+705	ON	Sudbury, north central
+706	GA	Athens, Columbus, Augusta, Rome
+707	CA	north coast and wine country: Santa Rosa, Napa, Vallejo, Eureka; Del Norte, Humboldt, Lake, Mendocino, Napa, Solano, and Sonoma Counties
+708	IL	La Grange, some southern/western suburbs of Chicago (464 will overlay 708; date t.b.a.)
+709	NF	entire province
+710	US	U.S. Federal Government, authorized users only
+712	IA	Sioux City, Council Bluffs, western
+713	TX	Houston (713/281/832 overlay)
+714	CA	Anaheim, northern Orange Co.
+715	WI	Eau Claire, northern/northwestern
+716	NY	Buffalo, western tip; (see also 585)
+717	PA	Harrisburg
+718	NY	Bronx, Brooklyn, Queens, Staten Island (718/347 overlay; see also 917)
+719	CO	Colorado Springs, southeastern
+720	CO	Denver (303/720 overlay)
+724	PA	New Castle, western (724 surrounds, but does not include, Pittsburgh); (878 overlays 412 and 724)
+727	FL	St. Petersburg; (see also 813)
+731	TN	Jackson, western TN except Memphis
+732	NJ	New Brunswick, northern Jersey Shore region (732/848 overlay)
+734	MI	Ann Arbor, Monroe, southern Detroit suburbs & Metro Airport [DTW] (278 will overlay 734) (status of overlay in limbo)
+737	TX	Austin (737 will be a concentrated overlay on most of 512) (overlay plan suspended)
+740	OH	Marion, Zanesville, southeastern
+747	CA	in reserve for future split of 818
+(752)	CA	San Bernardino, Ontario; (752 was to overlay 909 after 909/951 split; 909 relief plans suspended by CPUC)
+754	FL	Ft. Lauderdale, Broward County (754 will overlay 954)
+757	VA	Norfolk
+758	--	ST. LUCIA (Caribbean)
+760	CA	Palm Springs, Bishop, Escondido, Oceanside, southeastern plus northern San Diego County
+763	MN	Brooklyn Park, northwest suburbs of Minneapolis; (see also 952)
+764	CA	San Mateo, peninsula, San Francisco Airport [SFO]; (650/764 overlay suspended by CPUC)
+765	IN	Lafayette, Muncie
+767	--	DOMINICA (Caribbean)
+770	GA	Marietta, Atlanta suburbs (404/770/678/470 overlay)
+772	FL	Vero Beach, Ft. Pierce, Port St. Lucie; Martin, St. Lucie, and Indian River Counties; central east coast of Florida
+773	IL	Chicago/outside downtown (872 will overlay 312 and 773; date t.b.a.)
+774	MA	Worcester, Cape Cod, southeastern (508/774 overlay)
+775	NV	Reno, Carson City, Pahrump, all except Las Vegas/Clark Co. (see 702)
+778	BC	Greater Vancouver, Abbotsford, Mission (604/778 concentrated overlay on urban area)
+780	AB	Edmonton, northern
+781	MA	Lexington, suburbs on three sides of Boston (781/339 overlay)
+784	--	ST. VINCENT & the GRENADINES (Caribbean)
+785	KS	Topeka, north central, northwestern
+786	FL	overlay for all of 305 (Miami/Dade County and now also the Keys)
+787	PR	PUERTO RICO (entire territory) (787/939 overlay)
+Jump	to	top - 200's - 300's - 400's - 500's - 600's - 700's - 800's - 900's
+800	--	Toll-free services; (see also 880)
+801	UT	Salt Lake City; (Provo, Ogden, urban areas both north and south of Salt Lake City will be 385) (see also 435) (801/385 split postponed until after 2002 Olympics)
+802	VT	entire state
+803	SC	Columbia, central
+804	VA	Richmond, Petersburg; (see also 434)
+805	CA	San Luis Obispo, Oxnard; (see also 661)
+806	TX	Amarillo, Lubbock, panhandle
+807	ON	Thunder Bay, northwestern
+808	HI	entire state
+809	--	DOMINICAN REPUBLIC (Caribbean) (for other territories formerly in 809, see Caribbean page or map)
+810	MI	Flint, Port Huron, northeastern Detroit suburbs; (810/586 planned overlay converted to geographic split)
+812	IN	Evansville, southern
+813	FL	Tampa
+814	PA	Altoona, Erie
+815	IL	Joliet, northern
+816	MO	Kansas City, St. Joseph (816/975 overlay suspended)
+817	TX	Ft. Worth (817/682 overlay)
+818	CA	San Fernando (part of Los Angeles County)
+819	QC	Sherbrooke, Hull, Trois-Rivières, Kuujjuaq, central and northern
+822	--	future toll-free services
+828	NC	Asheville, western tip
+830	TX	Del Rio, New Braunfels, surrounds San Antonio
+831	CA	Monterey, Santa Cruz
+832	TX	Houston and suburbs (713/281/832 overlay)
+833	--	future toll-free services
+(835)	PA	Allentown, King of Prussia, outer Philadelphia suburbs (835 will overlay 610/484)
+843	SC	Charleston, coastal
+844	--	future toll-free services
+845	NY	Poughkeepsie, northern suburbs of New York City (except Westchester County = 914)
+847	IL	Skokie, northern suburbs of Chicago; (847/224 overlay)
+848	NJ	New Brunswick, northern Jersey Shore region (732/848 overlay)
+850	FL	Tallahassee, panhandle
+855	--	future toll-free services
+856	NJ	Camden, Vineland, southwestern; (see also 609)
+857	MA	Boston (617/857 overlay) (see also 781/339)
+858	CA	La Jolla, near north suburbs of San Diego; (see also 619, 760)
+859	KY	Lexington, Covington; (eastern rural areas remained in 606)
+860	CT	Hartford, northern and eastern (959 will overlay 860)
+862	NJ	Newark, Paterson (973/862 overlay)
+863	FL	Lakeland, Okeechobee
+864	SC	Greenville, Spartanburg, northwestern
+865	TN	Knoxville metro; (Chattanooga, Johnson City remain 423)
+866	--	Toll-free services; (no "replace" code assigned for paid international access to +1 866)
+867	--	YUKON TERRITORY, NORTHWEST TERRITORIES, NUNAVUT
+868	--	TRINIDAD & TOBAGO (Caribbean)
+869	--	ST. KITTS & NEVIS (Caribbean)
+870	AR	Jonesboro, Pine Bluff, southern, eastern, north central; (see 501)
+872	IL	Chicago (872 will overlay 312 and 773; date t.b.a.)
+876	--	JAMAICA (Caribbean)
+877	--	Toll-free services; (see also 882)
+878	PA	Pittsburgh, New Castle; (878 overlays 412 and 724)
+880	--	Paid international calls to +1 800
+881	--	Paid international calls to +1 888
+882	--	Paid international calls to +1 877 (note: 883, 884, etc. have NOT been assigned as "replace" codes for paid international calls to +1 866, +1 855, etc.)
+888	--	Toll-free services; (see also 881)
+Jump	to	top - 200's - 300's - 400's - 500's - 600's - 700's - 800's - 900's
+900	--	Premium pay-per-call services
+901	TN	Memphis; (see also 731)
+902	NS	
+PEI	Nova	Scotia, Prince Edward Island: entirety of both provinces
+903	TX	Tyler, Texarkana, northeastern; (430 will overlay 903)
+904	FL	Jacksonville (see also 386)
+905	ON	Hamilton, Mississauga, Toronto suburbs (905/289 overlay)
+906	MI	Sault Ste. Marie, upper peninsula
+907	AK	entire state
+908	NJ	Elizabeth
+909	CA	San Bernardino, Ontario, Riverside
+910	NC	Wilmington, Fayetteville, southeastern
+912	GA	Savannah, southeastern; (see also 229, 478)
+913	KS	Kansas City, Leavenworth
+914	NY	White Plains, Westchester County; (see also 845)
+915	TX	El Paso, Abilene, western
+916	CA	Sacramento
+917	NY	NYC (mostly Cellular/Pagers/Voicemail) (overlays 212/646 & 718/347)
+918	OK	Tulsa, northeastern
+919	NC	Raleigh (984 will overlay 919)
+920	WI	Green Bay, northeastern
+925	CA	Concord, Walnut Creek, Livermore, inland East Bay
+928	AZ	Flagstaff, Yuma, most of the state; (see also 520 and 480/602/623)
+931	TN	Clarksville, central except Nashville (see 615)
+935	CA	(was assigned for a split of 619; split cancelled by CPUC)
+936	TX	Huntsville, Nacogdoches
+937	OH	Dayton
+939	PR	Puerto Rico (787/939 overlay)
+940	TX	Wichita Falls, Denton
+941	FL	Sarasota, (Fort Myers will be 239); (see also 863)
+947	MI	Pontiac, Troy, northwestern Detroit suburbs (947 will overlay 248) (overlay reinstated)
+949	CA	Irvine, Newport Beach, southern Orange County
+951	CA	Riverside (use 909); (relief plans for 909 suspended by CPUC)
+952	MN	Bloomington, southwest suburbs of Minneapolis; (see also 763)
+954	FL	Ft. Lauderdale, Broward County (754 will overlay 954)
+956	TX	Brownsville, Laredo, Rio Grande Valley
+959	CT	Hartford, northern and eastern (will overlay 860)
+970	CO	Grand Junction, northern and western
+971	OR	Portland, Salem, not Tillamook or Astoria; concentrated overlay of 503
+972	TX	Dallas and suburbs (214/972/469 overlay)
+973	NJ	Newark, Paterson (973/862 overlay)
+975	MO	Kansas City MO, St. Joseph (975 will overlay 816)
+978	MA	Lowell, Leominster, northeastern; (978/351 overlay)
+979	TX	Bryan/College Station, Wharton
+980	NC	Charlotte (704/980 overlay)
+984	NC	Raleigh (984 will overlay 919)
+985	LA	southeastern except New Orleans (504) and Baton Rouge (225); north shore of Lake Pontchartrain, Houma
+989	MI	Saginaw

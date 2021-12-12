@@ -1,0 +1,23 @@
+#!/bin/bash
+# Capture the script name.
+# $0 is the path to the script, and basename prints the final filename.
+PROGRAM=$(basename $0)
+# Location of the password vault
+DATABASE=$HOME/etc/vault
+
+# Ensure that at least one argument was provided to the script.
+# The expression >&2 directs echo to print on stderr instead of stdout.
+if [ $# -ne 1 ]; then
+    >&2 echo "$PROGRAM: look up passwords by string"
+    >&2 echo "Usage: $PROGRAM string"
+    exit 1
+fi
+# Store the first argument in a friendly, named variable
+searchstring="$1"
+
+# Search the vault and print an error message if nothing matches
+grep "$searchstring" "$DATABASE"
+if [ $? -ne 0 ]; then
+    >&2 echo "$PROGRAM: no matches for '$searchstring'"
+    exit 1
+fi

@@ -1,0 +1,2 @@
+BOOKTITLE="Slow Inefficient Linux"
+rm $BOOKTITLE					# Wrong! Don't do this!

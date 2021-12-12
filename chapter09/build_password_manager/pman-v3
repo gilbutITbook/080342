@@ -1,0 +1,27 @@
+#!/bin/bash
+PROGRAM=$(basename $0)
+DATABASE=$HOME/etc/vault
+
+if [ $# -ne 1 ]; then
+    >&2 echo "$PROGRAM: look up passwords"
+    >&2 echo "Usage: $PROGRAM string"
+    exit 1
+fi
+searchstring="$1"
+
+# Look for exact matches in the third column
+match=$(awk '$3~/^'$searchstring'$/' "$DATABASE")
+
+# If the search string doesn't match a key, find all matches
+if [ -z "$match" ]; then
+    match=$(awk "/$searchstring/" "$DATABASE")
+fi
+
+# If still no match, print an error message and exit
+if [ -z "$match" ]; then
+    >&2 echo "$PROGRAM: no matches for '$searchstring'"
+    exit 1
+fi
+
+# Print the match
+echo "$match"

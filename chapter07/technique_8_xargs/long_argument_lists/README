@@ -1,0 +1,17 @@
+To create 1,000,000 files named file1.txt through file1000000.txt,
+first make sure you have at least a few million inodes free on the disk
+holding your /tmp directory. Run this command and examine the IFree value:
+
+  df -i /tmp
+
+If you have enough inodes, make and enter a temporary directory:
+
+  cd /tmp
+  mkdir million
+  cd million
+
+Then run this command:
+
+  echo file{1..1000000}.txt | xargs touch
+
+It may take a few minutes to run.

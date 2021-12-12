@@ -1,0 +1,7 @@
+== Final Timesavers
+
+I've had a lot of fun writing this book, and I hope you've had fun
+reading it too. For the last act, let's cover a bunch of smaller
+topics that didn't quite fit into the earlier chapters. These topics
+have made me a better Linux user and maybe they'll help you as well.
+

@@ -1,0 +1,3 @@
+duckduckgo.com	My search engine
+nytimes.com	My newspaper
+spotify.com	My music

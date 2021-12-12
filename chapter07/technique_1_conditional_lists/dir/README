@@ -1,0 +1,6 @@
+Use this directory for the file "new.txt" as shown in "List Techniques"
+in chapter 7:
+
+$ cd dir
+$ touch new.txt
+

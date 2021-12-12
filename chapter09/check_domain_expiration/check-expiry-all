@@ -1,0 +1,5 @@
+#!/bin/bash
+cat domains.txt | while read domain; do
+    ./check-expiry "$domain"
+    sleep 5				# Be kind to the registrar's server
+done

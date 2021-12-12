@@ -1,0 +1,12 @@
+#!/bin/bash
+# halshell: A shell that won't run your commands
+
+# Print a prompt
+echo -n '$ '
+# Read the user's input in a loop
+while read line; do
+ # Ignore the input and print a message
+ echo "I'm sorry, I'm afraid I can't do that"
+ # Print the next prompt
+ echo -n '$ '
+done

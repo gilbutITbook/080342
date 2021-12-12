@@ -1,0 +1,6 @@
+I'm here today to tell you that I
+really love the Perl programming language, which is
+one of my favorites in the world. For years, I liked
+languages such as Perl, Python, PHP, and Ruby
+equally, but now I'm pretty settled on my favorite.
+
