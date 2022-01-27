@@ -9,7 +9,7 @@ load_password () {
     # Place password (field 2) into X primary selection
     echo "$1" | cut -f2 | tr -d '\n' | xclip -selection primary
     # Give feedback to the user
-    echo "Found" $(echo "$1" | cut -f3- --output-delimiter ': ')
+    echo "$PROGRAM: Found" $(echo "$1" | cut -f3- --output-delimiter ': ')
     echo "$PROGRAM: username and password loaded into X selections"
     # Launch a background job to clear the password in 30 seconds
     (sleep 30 && echo -n | xclip -selection primary) &
