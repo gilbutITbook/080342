@@ -1,2 +1,2 @@
-This directory contains examples from preface
+This directory contains examples from the preface
 of [*Efficient Linux at the Command Line*](https://efficientlinux.com/) by [Daniel J. Barrett](https://danieljbarrett.com).
