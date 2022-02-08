@@ -13,4 +13,5 @@ Mac. A working command on the Mac is:
   $ echo 2021-{01..12}-01 | xargs -n1 -I@ date -j -f %Y-%m-%d @ +%B
 
 If interested, you can install the Linux version of the "date" command
-using Homebrew, by installing the package "coreutils."
+using Homebrew, by installing the package "coreutils". The command is
+named "gdate".
