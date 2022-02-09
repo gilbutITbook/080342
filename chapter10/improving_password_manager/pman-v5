@@ -1,6 +1,5 @@
 #!/bin/bash
 PROGRAM=$(basename $0)
-# Use the encrypted file
 DATABASE=$HOME/etc/vault.gpg
 
 load_password () {
